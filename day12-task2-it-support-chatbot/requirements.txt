@@ -1,0 +1,6 @@
+anthropic
+streamlit
+python-dotenv
+voyageai
+chromadb
+mcp>=2.0.0
